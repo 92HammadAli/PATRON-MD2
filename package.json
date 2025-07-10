@@ -1,13 +1,13 @@
 {
-  "name": "patron-md",
+  "name": "Hammad Ali",
   "version": "2.0.0",
-  "description": "A WhatsApp Bot Created By ᴘᴀᴛʀᴏɴ🚹",
+  "description": "A WhatsApp Bot Created By Hammad Ali",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "start": "npx pm2 start index.js --deep-monitoring --attach --name PATRON-MD",
-    "stop": "npx pm2 stop PATRON-MD",
-    "restart": "npx pm2 restart PATRON-MD",
+    "start": "npx pm2 start index.js --deep-monitoring --attach --name Hammad-MD",
+    "stop": "npx pm2 stop Hammad-MD",
+    "restart": "npx pm2 restart Hammad-MD",
     "postinstall": "npm rebuild sqlite3"
   },
   "dependencies": {
