@@ -1,8 +1,8 @@
 {
-  "name": "PATRON-MD",
+  "name": "Hammad Ali",
   "description": "WhatsApp Bot",
   "logo": "https://raw.githubusercontent.com/Itzpatron/PATRON-DATA/refs/heads/main/logo/patronimg.png",
-  "keywords": ["PATRON-MD"],
+  "keywords": ["Hammad Ali"],
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -78,20 +78,20 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY PATRON-MD 🚹*"
+      "value": "*SEEN YOUR STATUS BY Hammad Ali🚹*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ᴘᴀᴛʀᴏɴ🚹"
+      "value": "Hammad🚹"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "234310344XXXX"
+      "value": "923166069400"
 
     }, 
     
@@ -110,7 +110,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘᴀᴛʀᴏɴ🚹*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Hammad Ali🚹*"
     },
 
       "DELETE_LINKS": {
